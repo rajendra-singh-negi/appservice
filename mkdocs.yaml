@@ -1,5 +1,5 @@
 site_name: test123
-site_url: test
+site_url: https://github.com/rajendra-singh-negi/appservice1
 # repo_name: 'Azure DevOps'
 docs_dir: index
 site_description: 'test'
@@ -7,7 +7,6 @@ dev_addr: 0.0.0.0:8000
 
 plugins:
   - search
-  - monorepo
   - include_dir_to_nav
   - blogging:
       dirs: # The directories to be included
@@ -27,9 +26,6 @@ theme:
     name: material
     palette:
       scheme: shell-light
-    custom_dir: overrides # this is relative to mkdocs.yaml file
-    logo: assets/stratoslogo.svg
-    favicon: assets/stratosicon.svg
     #   dev_addr: '0.0.0.0:8000'
     features:
         - content.action.edit
