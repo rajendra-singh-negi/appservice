@@ -1,7 +1,7 @@
 site_name: test123
 site_url: https://github.com/rajendra-singh-negi/appservice1
 # repo_name: 'Azure DevOps'
-docs_dir: index
+docs_dir: Src
 site_description: 'test'
 dev_addr: 0.0.0.0:8000
 
