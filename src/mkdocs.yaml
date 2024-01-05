@@ -1,4 +1,4 @@
 site_name: test
 repo_url: https://github.com/rajendra-singh-negi/appservice
-edit_uri: edit/main/test/
+edit_uri: edit/main/src/
 docs_dir: './'
